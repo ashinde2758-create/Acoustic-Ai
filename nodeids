@@ -1,0 +1,6 @@
+[
+  "tests/test_anomaly_detection.py::test_anomaly_detection_with_and_without_baseline",
+  "tests/test_feature_extraction.py::test_feature_extraction",
+  "tests/test_preprocessing.py::test_invalid_file_handling",
+  "tests/test_preprocessing.py::test_validate_and_preprocess_audio"
+]
